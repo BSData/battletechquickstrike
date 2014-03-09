@@ -1,0 +1,4 @@
+battletechquickstrike
+=====================
+
+Battletech Quick Strike
